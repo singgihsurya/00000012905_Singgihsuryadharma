@@ -18,6 +18,7 @@ Tidak diperbolehkan membuat file .CSS lainnya.
 		body{
 			background: Lavender;
 		}
-		.ii{
-			display: block;
+
+			th,td{
+			padding: 20px;
 		}
