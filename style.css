@@ -17,15 +17,24 @@ Tidak diperbolehkan membuat file .CSS lainnya.
 
 		body{
 			background: Lavender;
+			width: 1200px;
+			height: 800px;
 		}
 
-			th,td{
+		th,td{
 			padding: 15px;
 		}
 
 		.x{
 			width: 100px;
 			height: 100px;
+		}
+		.y{
+			width: 140px;
+			height: 140px;
+			display: inline;
+			margin: 20px;
+
 		}
 
 		.cx{
@@ -40,4 +49,8 @@ Tidak diperbolehkan membuat file .CSS lainnya.
 			height: 200px;
 			padding: 40px;
 
+		}
+		.ve{
+			display: table-cell;
+			vertical-align: middle;
 		}
