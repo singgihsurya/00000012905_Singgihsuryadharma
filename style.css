@@ -3,8 +3,8 @@ Tulis di sini semua style yang Anda buat.
 Tidak diperbolehkan membuat file .CSS lainnya.
 */
 		img{
-			width: 300px;
-			height:  300px;
+			width: 400px;
+			height:  400px;
 		}
 		.isi{
 			margin: 0px auto;
@@ -20,5 +20,24 @@ Tidak diperbolehkan membuat file .CSS lainnya.
 		}
 
 			th,td{
-			padding: 20px;
+			padding: 15px;
+		}
+
+		.x{
+			width: 100px;
+			height: 100px;
+		}
+
+		.cx{
+			background-image: url(../coba/images/patter.jpg);
+		}
+
+		.i1{
+			display: inline;
+		}
+		.as{
+			width: 270px;
+			height: 270px;
+			padding: 40px;
+
 		}
