@@ -54,3 +54,21 @@ Tidak diperbolehkan membuat file .CSS lainnya.
 			display: table-cell;
 			vertical-align: middle;
 		}
+		.kanan{
+			float: right;
+
+		}
+		.nn{
+			width: 300px;
+			height: 300px;
+		}
+		.kiri{
+			font-size: 25px;
+		}
+		.data{
+			margin: 15px;
+		}
+		.xcx{
+			display: inline-block;
+			margin: 20px;
+		}
