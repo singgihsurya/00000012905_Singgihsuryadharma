@@ -39,6 +39,8 @@ Tidak diperbolehkan membuat file .CSS lainnya.
 
 		.cx{
 			background-image: url(../coba/images/patter.jpg);
+			width: 1200px;
+			height: 600px;
 		}
 
 		.i1{
