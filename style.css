@@ -67,3 +67,12 @@ Tidak diperbolehkan membuat file .CSS lainnya.
 			display: inline-block;
 			margin: 0 100px;
 		}
+		.ioo{
+			width: 1200px;
+			height: 600px;
+		}
+		.sadd{
+			float: right;
+			width: 200px;
+			height: 200px;
+		}
