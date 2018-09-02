@@ -2,77 +2,95 @@
 Tulis di sini semua style yang Anda buat.
 Tidak diperbolehkan membuat file .CSS lainnya.
 */
-		img{
-			width: 380px;
-			height:  380px;
-		}
-		.isi{
-			margin: 0px auto;
-		}
+img{
+	width: 380px;
+	height:  380px;
+}
+.isi{
+	margin: 0px auto;
+}
 
-		h1{
-			text-align: center;
-			color: white;
-		}
+h1{
+	text-align: center;
+	color: white;
+}
 
-		body{
-			background: Lavender;
-			width: 1200px;
-			height: 600px;
-		}
+body{
+	background: Lavender;
+	width: 1200px;
+	height: 600px;
+}
 
-		th,td{
-			padding: 15px;
-		}
+th,td{
+	padding: 15px;
+}
 
-		.x{
-			width: 100px;
-			height: 100px;
-		}
-		.y{
-			width: 140px;
-			height: 140px;
-			display: inline;
-			margin: 20px;
+.x{
+	width: 100px;
+	height: 100px;
+}
+.y{
+	width: 140px;
+	height: 140px;
+	display: inline;
+	margin: 20px;
 
-		}
+}
 
-		
 
-		.i1{
-			display: inline;
-		}
-		.as{
-			width: 200px;
-			height: 200px;
-			padding: 40px;
 
-		}
-		
-		.kanan{
-			float: right;
+.i1{
+	display: inline;
+}
+.as{
+	width: 200px;
+	height: 200px;
+	padding: 40px;
 
-		}
-		.nn{
-			width: 300px;
-			height: 300px;
-		}
-		.kiri{
-			font-size: 25px;
-		}
-		.data{
-			margin: 15px;
-		}
-		.xcx{
-			display: inline-block;
-			margin: 0 100px;
-		}
-		.ioo{
-			width: 1200px;
-			height: 600px;
-		}
-		.sadd{
-			float: right;
-			width: 200px;
-			height: 200px;
-		}
+}
+
+.kanan{
+	float: right;
+
+}
+.nn{
+	width: 300px;
+	height: 300px;
+}
+.kiri{
+	font-size: 25px;
+}
+.data{
+	margin: 15px;
+}
+.xcx{
+	display: inline-block;
+	margin: 0 100px;
+}
+.ioo{
+	width: 1200px;
+	height: 600px;
+}
+.sadd{
+	float: right;
+	width: 200px;
+	height: 200px;
+}
+.dot {
+	height: 25px;
+	width: 25px;
+	background-color: #bbb;
+	border-radius: 50%;
+	display: inline-block;
+}
+
+.jnj{
+	margin-left: 60px;	
+}
+.coa{
+	display: inline-block;
+}
+.tta{
+	margin: 20px;
+	padding: 10px;
+}
