@@ -18,7 +18,7 @@ Tidak diperbolehkan membuat file .CSS lainnya.
 		body{
 			background: Lavender;
 			width: 1200px;
-			height: 800px;
+			height: 600px;
 		}
 
 		th,td{
@@ -37,11 +37,7 @@ Tidak diperbolehkan membuat file .CSS lainnya.
 
 		}
 
-		.cx{
-			background-image: url(../coba/images/patter.jpg);
-			width: 1200px;
-			height: 600px;
-		}
+		
 
 		.i1{
 			display: inline;
@@ -52,10 +48,7 @@ Tidak diperbolehkan membuat file .CSS lainnya.
 			padding: 40px;
 
 		}
-		.ve{
-			display: table-cell;
-			vertical-align: middle;
-		}
+		
 		.kanan{
 			float: right;
 
@@ -72,5 +65,5 @@ Tidak diperbolehkan membuat file .CSS lainnya.
 		}
 		.xcx{
 			display: inline-block;
-			margin: 20px;
+			margin: 0 100px;
 		}
