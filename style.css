@@ -142,7 +142,10 @@ Tidak diperbolehkan membuat file .CSS lainnya.
 		width: 500px;
 	}
 
-	
+	img{
+		width: 100%;
+		height: 100%;
+	}
 
 
 
