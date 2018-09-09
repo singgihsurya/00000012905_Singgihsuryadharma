@@ -139,7 +139,7 @@ Tidak diperbolehkan membuat file .CSS lainnya.
 		width:100%;
 	}
 	.nn{
-		width: 500px;
+		width: 400px;
 	}
 
 	img{
@@ -147,6 +147,12 @@ Tidak diperbolehkan membuat file .CSS lainnya.
 		height: 100%;
 	}
 
-
+	.dot {
+		height: 25px;
+		width: 25px;
+		background-color: #bbb;
+		border-radius: 50%;
+		display: inline-block;
+	}
 
 }
