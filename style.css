@@ -3,117 +3,126 @@ Tulis di sini semua style yang Anda buat.
 Tidak diperbolehkan membuat file .CSS lainnya.
 */
 
-@media screen and (min-width: 700px){
+@media screen and (min-width: 1024px){
+	img{
+		width: 380px;
+		height:  380px;
+	}
+	.isi{
+		margin: 0px auto;
+	}
+
+	h1{
+		text-align: center;
+		color: white;
+	}
+
+	body{
+		background: Lavender;
+		width: 1200px;
+		height: 600px;
+	}
+
+	th,td{
+		padding: 15px;
+	}
+
+	.x{
+		width: 100px;
+		height: 100px;
+	}
+	.y{
+		width: 140px;
+		height: 140px;
+		display: inline;
+		margin: 20px;
+
+	}
 
 
 
-		img{
-			width: 380px;
-			height:  380px;
-		}
-		.isi{
-			margin: 0px auto;
-		}
+	.i1{
+		display: inline;
+	}
+	.as{
+		width: 200px;
+		height: 200px;
+		padding: 40px;
 
-		h1{
-			text-align: center;
-			color: white;
-		}
+	}
 
-		body{
-			background: Lavender;
-			width: 1200px;
-			height: 600px;
-		}
+	.kanan{
+		float: right;
 
-		th,td{
-			padding: 15px;
-		}
+	}
+	.nn{
+		width: 300px;
+		height: 300px;
+	}
+	.kiri{
+		font-size: 25px;
+	}
+	.data{
+		margin: 15px;
+	}
+	.xcx{
+		display: inline-block;
+		margin: 0 100px;
+	}
+	.ioo{
+		width: 1200px;
+		height: 600px;
+	}
+	.sadd{
+		float: right;
+		width: 200px;
+		height: 200px;
+	}
+	.dot {
+		height: 25px;
+		width: 25px;
+		background-color: #bbb;
+		border-radius: 50%;
+		display: inline-block;
+	}
 
-		.x{
-			width: 100px;
-			height: 100px;
-		}
-		.y{
-			width: 140px;
-			height: 140px;
-			display: inline;
-			margin: 20px;
+	.jnj{
+		margin-left: 60px;	
+	}
+	.coa{
+		display: inline-block;
+	}
+	.tta{
+		margin: 20px;
+		padding: 10px;
+	}
 
-		}
+	.nav li{
+		list-style: none;
+		float: left;
+		margin: 0;
+		padding: 0;
+		border-left: 1px solid #999;
+		line-height: 30px;
+	}
+
+	.nav li a:link,
+	.nav li a:visited{
+		text-decoration: none;
+		color: #999;
+		background: #333;
+		padding: 10px 20px;
+	}
+}
 
 
-
-		.i1{
-			display: inline;
-		}
-		.as{
-			width: 200px;
-			height: 200px;
-			padding: 40px;
-
-		}
-
-		.kanan{
-			float: right;
-
-		}
-		.nn{
-			width: 300px;
-			height: 300px;
-		}
-		.kiri{
-			font-size: 25px;
-		}
-		.data{
-			margin: 15px;
-		}
-		.xcx{
-			display: inline-block;
-			margin: 0 100px;
-		}
-		.ioo{
-			width: 1200px;
-			height: 600px;
-		}
-		.sadd{
-			float: right;
-			width: 200px;
-			height: 200px;
-		}
-		.dot {
-			height: 25px;
-			width: 25px;
-			background-color: #bbb;
-			border-radius: 50%;
-			display: inline-block;
-		}
-
-		.jnj{
-			margin-left: 60px;	
-		}
-		.coa{
-			display: inline-block;
-		}
-		.tta{
-			margin: 20px;
-			padding: 10px;
-		}
-
-		.nav li{
-			list-style: none;
-			float: left;
-			margin: 0;
-			padding: 0;
-			border-left: 1px solid #999;
-			line-height: 30px;
-		}
-
-		.nav li a:link,
-		.nav li a:visited{
-			text-decoration: none;
-			color: #999;
-			background: #333;
-			padding: 10px 20px;
-		}
+@media screen and (max-width: 1024px){
+	.x{
+		width: 200px;
+		height: 200px;
+	}
+	.sadd{
+		width: 300px;
+		height: 300px;
+	}
 }
